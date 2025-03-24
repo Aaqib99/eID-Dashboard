@@ -1,7 +1,6 @@
 {
     "name": "digital-identity",
     "version": "3.3.1",
-    "homepage": "/digital-identity",
     "private": true,
     "dependencies": {
         "@emotion/cache": "^11.9.3",
